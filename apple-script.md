@@ -7,8 +7,8 @@
 
 
 # 2. Custom script list  
-- [test.scpt](test.scrpt)  
-- [pro-ansible-open.scpt](pro-ansible-open.scrpt)  
+- [test.scpt](test.scpt)  
+- [pro-ansible-open.scpt](pro-ansible-open.scpt)  
 
 
 # 3. iTerm2 with apple script  
