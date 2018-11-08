@@ -8,7 +8,7 @@ tell application "iTerm2"
       delay 2
       write text "ssh pro-ansible"
       delay 2
-      write text "2noPALV9"
+      write text "bigS3cret!!"
     end tell
   end tell
 end tell
